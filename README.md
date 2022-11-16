@@ -8,11 +8,11 @@ body {
 }  
 #content {
     background: pink;
-    min-width: 1500px;
-    max-width: 500px;
+    min-width: 500px;
+    max-width: 1500px;
     padding: 50px;
     margin: auto;
-    margin-top: -130px;
+    margin-top: 130px;
     margin-left: 0px;
     line-height: 150%;
 }
@@ -32,11 +32,10 @@ h3 {
 </head>    
 <body>
     <div id="content">
-        <h1>Sarah Gothard</h1>
-        <h2>Freshman in Greenville, South Carolina</h2>
+        <h1>~Michelle~</h1>
+        <h2>Student at BJU</h2>
         
-         <p>I am a freshman at Bob Jones University studying computer science with a minor in 
-            mathematics. I work for the Computer Science department as a lab monitor.</p>
+         <p>I don't like sharing all my personal information online</p>
          <p>
             This is one of my favorite videos: <a href="https://youtu.be/dQw4w9WgXcQ">website</a> 
          </p> 
