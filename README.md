@@ -13,6 +13,7 @@ body {
     padding: 50px;
     margin: auto;
     margin-top: -130px;
+    margin-left: 0px;
     line-height: 150%;
 }
 h1 {
