@@ -9,7 +9,7 @@ body {
 #content {
     background: pink;
     min-width: 500px;
-    max-width: 1500px;
+    max-width: 2500px;
     padding: 50px;
     margin: auto;
     margin-top: 130px;
@@ -28,6 +28,10 @@ h2 {
 h3 {
     font-size: 12px;
 }
+p {
+    text-align: center;
+    font-family: Perpetua;
+    }
 </style>
 </head>    
 <body>
@@ -35,12 +39,17 @@ h3 {
         <h1>~Michelle~</h1>
         <h2>Some of My Favs</h2>
         
-         <p>Chocolate Ice Cream is my favorite desert.</p>
-         <p>
-             This is one of my <strong>favorite</strong> videos: <a href="https://youtu.be/dQw4w9WgXcQ">website</a> 
+        <h4>Desert</h4>
+         <p>Chocolate ice cream is my favorite desert.</p>
+        
+        <h4>Video</h4>
+        <p>
+             This is one of my <em>favorite</em> videos: <a href="https://youtu.be/dQw4w9WgXcQ">click here</a> 
          </p> 
+        
+        <h4>Activities</h4>
          <p>
-            Crocheting and conversing is also something I really enjoy.
+            Crocheting and playing ukulele are some things I enjoy doing.
          </p>
         <h3>EDUCATION</h3>
         Computer Science<br />
