@@ -24,19 +24,19 @@ h1 {
     font-family: Perpetua;
 }
 h2 {
-    font-size: 20px;
+    font-size: 30px;
     text-align: center;
     font-family: Perpetua;
 }
 h3 {
-    font-size: 16px;
+    font-size: 20px;
     text-align: center;
     font-family: Perpetua;
 }
 p {
     text-align: center;
     font-family: Perpetua;
-    font-size: 14px
+    font-size: 16px
     }
 </style>
 </head>    
