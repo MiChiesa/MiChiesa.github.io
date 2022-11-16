@@ -33,14 +33,14 @@ h3 {
 <body>
     <div id="content">
         <h1>~Michelle~</h1>
-        <h2>Student at BJU</h2>
+        <h2>Some of My Favs</h2>
         
-         <p>I don't like sharing all my personal information online</p>
+         <p>Chocolate Ice Cream is my favorite desert.</p>
          <p>
-            This is one of my favorite videos: <a href="https://youtu.be/dQw4w9WgXcQ">website</a> 
+             This is one of my <strong>favorite</strong> videos: <a href="https://youtu.be/dQw4w9WgXcQ">website</a> 
          </p> 
          <p>
-            I enjoy listening to podcasts and having deep conversations.
+            Crocheting and conversing is also something I really enjoy.
          </p>
         <h3>EDUCATION</h3>
         Computer Science<br />
