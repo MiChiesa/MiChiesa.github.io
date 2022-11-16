@@ -19,23 +19,24 @@ body {
 }
 h1 {
     letter-spacing: 2px;
-    font-size: 16px;
+    font-size: 24px;
     text-align: center;
     font-family: Perpetua;
 }
 h2 {
-    font-size: 14px;
+    font-size: 20px;
     text-align: center;
     font-family: Perpetua;
 }
 h3 {
-    font-size: 12px;
+    font-size: 16px;
     text-align: center;
     font-family: Perpetua;
 }
 p {
     text-align: center;
     font-family: Perpetua;
+    font-size: 14px
     }
 </style>
 </head>    
