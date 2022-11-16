@@ -1,13 +1,13 @@
-#MiChiesa.github.io
+
 <html>
 <head>
 <style>
 body {
-    background: lightgreen;
-    font-family: Verdana;
+    background: BlueViolet;
+    font-family: Perpetua;
 }  
 #content {
-    background: lightyellow;
+    background: pink;
     min-width: 200px;
     max-width: 500px;
     padding: 50px;
@@ -37,7 +37,7 @@ h3 {
          <p>I am a freshman at Bob Jones University studying computer science with a minor in 
             mathematics. I work for the Computer Science department as a lab monitor.</p>
          <p>
-            This is a funny video of my friend: <a href="https://youtu.be/dQw4w9WgXcQ">website</a> 
+            This is one of my favorite videos: <a href="https://youtu.be/dQw4w9WgXcQ">website</a> 
          </p> 
          <p>
             I enjoy listening to podcasts and having deep conversations.
