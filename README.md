@@ -9,7 +9,7 @@ body {
 #content {
     background: pink;
     min-width: 500px;
-    max-width: 2500px;
+    max-width: 3500px;
     padding: 50px;
     margin: auto;
     margin-top: 130px;
