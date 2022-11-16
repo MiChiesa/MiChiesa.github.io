@@ -1,4 +1,4 @@
-
+#MiChiesa.github.io
 <html>
 <head>
 <style>
@@ -37,9 +37,7 @@ h3 {
          <p>I am a freshman at Bob Jones University studying computer science with a minor in 
             mathematics. I work for the Computer Science department as a lab monitor.</p>
          <p>
-            I attend Cornerstone Baptist Church in Greer SC. I have a mobile-friendly 
-            sheet music <a href="https://mobilehymns.org/">website</a> and post weekly service
-            schedules for several churches.
+            This is a funny video of my friend: <a href="https://youtu.be/dQw4w9WgXcQ">website</a> 
          </p> 
          <p>
             I enjoy listening to podcasts and having deep conversations.
