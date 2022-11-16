@@ -8,7 +8,7 @@ body {
 }  
 #content {
     background: pink;
-    min-width: 200px;
+    min-width: 1500px;
     max-width: 500px;
     padding: 50px;
     margin: auto;
