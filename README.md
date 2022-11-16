@@ -1,4 +1,3 @@
-
 <html>
 <head>
 <style>
@@ -17,6 +16,7 @@ body {
     line-height: 150%;
     font-family: Perpetua;
 }
+    
 h1 {
     letter-spacing: 2px;
     font-size: 24px;
@@ -60,5 +60,6 @@ p {
        
     </div>
            
+    
 </body>
 </html>
