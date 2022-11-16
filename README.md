@@ -19,7 +19,7 @@ body {
     
 h1 {
     letter-spacing: 2px;
-    font-size: 24px;
+    font-size: 50px;
     text-align: center;
     font-family: Perpetua;
 }
